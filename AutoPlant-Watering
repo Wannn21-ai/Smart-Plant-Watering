@@ -1,0 +1,28 @@
+# 🌱 Smart Plant Watering System
+
+Proyek ini adalah sistem penyiram tanaman otomatis berbasis **ESP32** menggunakan sensor kelembaban tanah.
+
+## 🔧 Fitur
+- Penyiraman otomatis saat tanah kering
+- Monitoring kelembaban via sensor
+- Sistem berbasis Wokwi (simulasi)
+
+## 🧠 Teknologi
+- ESP32
+- Sensor soil moisture
+- Wokwi Simulator
+
+## 📁 File Penting
+- `sketch.ino` → Kode utama
+- `diagram.json` → Rangkaian simulasi
+- `libraries.txt` → Daftar library
+- `wokwi-project.txt` → Metadata proyek Wokwi
+
+## 📸 Demo
+(Screenshot atau link video Wokwi bisa ditaruh di sini)
+
+## 👤 Author
+King Ridwan ([@Wannn21-ai](https://github.com/Wannn21-ai))
+
+---
+> "Automate the little things so you can focus on growing the big ones."
