@@ -1,60 +1,28 @@
 # 🌱 Smart Plant Watering System
 
-Sistem penyiraman tanaman otomatis berbasis **ESP32** dan sensor kelembaban tanah. Dibuat untuk mensimulasikan otomatisasi pertanian skala kecil dengan menggunakan platform **Wokwi**.
+Proyek ini adalah sistem penyiram tanaman otomatis berbasis **ESP32** menggunakan sensor kelembaban tanah.
 
-![Repo Size](https://img.shields.io/github/repo-size/Wannn21-ai/Smart-Plant-Watering)
-![Top Language](https://img.shields.io/github/languages/top/Wannn21-ai/Smart-Plant-Watering)
-![Last Commit](https://img.shields.io/github/last-commit/Wannn21-ai/Smart-Plant-Watering)
-![License](https://img.shields.io/github/license/Wannn21-ai/Smart-Plant-Watering)
+## 🔧 Fitur
+- Penyiraman otomatis saat tanah kering
+- Monitoring kelembaban via sensor
+- Sistem berbasis Wokwi (simulasi)
 
----
-
-## 🔧 Fitur Utama
-- 🚿 Penyiraman otomatis saat tanah terlalu kering
-- 🌡️ Monitoring kelembaban via sensor analog
-- 🧠 Logika otomatis yang bisa dimodifikasi
-- 💻 Simulasi via [Wokwi Simulator](https://wokwi.com)
-
----
-
-## 🧰 Teknologi
+## 🧠 Teknologi
 - ESP32
-- Sensor kelembaban tanah analog
-- Wokwi untuk simulasi hardware
-- Arduino (C++)
+- Sensor soil moisture
+- Wokwi Simulator
 
----
+## 📁 File Penting
+- `sketch.ino` → Kode utama
+- `diagram.json` → Rangkaian simulasi
+- `libraries.txt` → Daftar library
+- `wokwi-project.txt` → Metadata proyek Wokwi
 
-## 📁 Struktur File
-
-| File | Deskripsi |
-|------|-----------|
-| `sketch.ino` | Kode utama untuk ESP32 |
-| `diagram.json` | Konfigurasi rangkaian Wokwi |
-| `libraries.txt` | Daftar pustaka Wokwi |
-| `wokwi-project.txt` | Metadata proyek |
-
----
-
-## 🚀 Cara Simulasi
-1. Buka [Wokwi.com](https://wokwi.com)
-2. Klik "Open Project from GitHub"
-3. Tempel link repo ini: `https://github.com/Wannn21-ai/Smart-Plant-Watering`
-4. Jalankan dan ubah sesuai kebutuhanmu!
-
----
+## 📸 Demo
+(Screenshot atau link video Wokwi bisa ditaruh di sini)
 
 ## 👤 Author
-
-> **King Ridwan**  
-> Mahasiswa Teknik Elektronika dengan minat di bidang IoT, Web, dan Robotika.  
-> [LinkedIn](https://www.linkedin.com/in/ridwan-maulana-kholiq-130007276)
+Yasashii ([@Wannn21-ai](https://github.com/Wannn21-ai))
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
-> _“Automate the small, focus on what matters.”_
+> "Automate the little things so you can focus on growing the big ones."
