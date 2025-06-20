@@ -9,7 +9,7 @@ Proyek ini adalah sistem penyiram tanaman otomatis berbasis **ESP32** menggunaka
 
 ## 🧠 Teknologi
 - ESP32
-- Sensor soil moisture
+- Potensiometer (Sensor soil moisture)
 - Wokwi Simulator
 
 ## 📁 File Penting
@@ -19,7 +19,7 @@ Proyek ini adalah sistem penyiram tanaman otomatis berbasis **ESP32** menggunaka
 - `wokwi-project.txt` → Metadata proyek Wokwi
 
 ## 📸 Demo
-(Screenshot atau link video Wokwi bisa ditaruh di sini)
+-
 
 ## 👤 Author
 Yasashii ([@Wannn21-ai](https://github.com/Wannn21-ai))
